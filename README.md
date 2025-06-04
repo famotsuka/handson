@@ -1,4 +1,4 @@
-Gerating inputs for Biomek!
+Generating inputs for Biomek!
 
  - For Mac and linux user:
 clone git https://github.com/famotsuka/handson.git
