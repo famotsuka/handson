@@ -3,10 +3,18 @@
 ## For Mac and linux user:
 ```bash
 clone git https://github.com/famotsuka/handson.git
+```
+```bash
 python3 –m venv .venv
-"source .venv/bin/activate/pip install pandas numpy biopython"
-"python3 main.py"
-"python3 mutant_sequences/syn_dual_muts.py"
+```
+```bash
+source .venv/bin/activate/pip install pandas numpy biopython
+```
+```bash
+python3 main.py
+```
+```bash
+python3 mutant_sequences/syn_dual_muts.py
 ```
 ## For Windows user, access google colab and add files in your Google drive.
 < >Code => Download Zip
