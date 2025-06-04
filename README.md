@@ -5,6 +5,9 @@
 clone git https://github.com/famotsuka/handson.git
 ```
 ```bash
+cd handson
+```
+```bash
 python3 –m venv .venv
 ```
 ```bash
