@@ -1,7 +1,7 @@
 Generating inputs for Biomek!
 
  - For Mac and linux user:
-"clone git https://github.com/famotsuka/handson.git"
+<clone git https://github.com/famotsuka/handson.git>
 "python3 –m venv .venv"
 "source .venv/bin/activate/pip install pandas numpy biopython"
 "python3 main.py"
