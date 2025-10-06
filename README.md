@@ -2,7 +2,7 @@
 
 ## For Mac and linux user:
 ```bash
-clone git https://github.com/famotsuka/handson.git
+git clone https://github.com/famotsuka/handson.git
 ```
 ```bash
 cd handson
